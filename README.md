@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Projects related to User Experience Research, Data Science/Machine Learning 
 - 📫 How to reach me: manasarath@gmail.com
 - 😄 Pronouns: she/her
--Fun fact: During my PhD, I lived in three states in the US (Guess which ones) :) 
+- Fun fact: During my PhD, I lived in three states in the US (Guess which ones) :) 
 
